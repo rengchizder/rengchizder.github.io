@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rengchizder.com/test/</loc>
+    <loc>https://rengchizder.com/test/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://rengchizder.com/tags/</loc>
+    <loc>https://rengchizder.com/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://rengchizder.com/tags/%E6%86%A8%E6%86%A8/</loc>
+    <loc>https://rengchizder.com/tags/%E6%86%A8%E6%86%A8/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://rengchizder.com/</loc>
+    <loc>https://rengchizder.com/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://rengchizder.com/categories/</loc>
+    <loc>https://rengchizder.com/categories/</loc>
   </url>
 </urlset>
