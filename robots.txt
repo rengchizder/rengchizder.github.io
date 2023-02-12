@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://rengchizder.com/sitemap.xml
