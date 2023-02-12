@@ -1,7 +1,8 @@
-baseURL: http://rengchizder.com/
+baseURL: https://rengchizder.com/
 languageCode: en-us
 title: 阿氷是憨憨 
-theme: "PaperMod"
+paginate: 5
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
