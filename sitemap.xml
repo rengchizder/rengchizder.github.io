@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rengchizder.com/blog/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://rengchizder.com/personal/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://rengchizder.com/categories/</loc>
   </url><url>
+    <loc>https://rengchizder.com/personal/first-personal-post/</loc>
+  </url><url>
     <loc>https://rengchizder.com/</loc>
+  </url><url>
+    <loc>https://rengchizder.com/search/</loc>
   </url><url>
     <loc>https://rengchizder.com/tags/</loc>
   </url>

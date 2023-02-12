@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reng Chiz Der</title>
-    <link>https://rengchizder.com/</link>
+    <link>https://rengchizder.com/personal/</link>
     <description>Recent content on Reng Chiz Der</description>
     <image>
       <title>Reng Chiz Der</title>
@@ -10,7 +10,7 @@
       <link>https://rengchizder.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rengchizder.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rengchizder.com/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finally Online!</title>
       <link>https://rengchizder.com/personal/first-personal-post/</link>
@@ -19,7 +19,6 @@
       <guid>https://rengchizder.com/personal/first-personal-post/</guid>
       <description>It has been my target to create a personal website as a personal wiki or to record my views. It is finally here! Took a weekend to solve the weird setup for hugo/github pages.</description>
     </item>
-    
     
   </channel>
 </rss>
