@@ -3,16 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rengchizder.com/blog/</loc>
+    <lastmod>2023-02-15T00:32:01+01:00</lastmod>
     <priority>0</priority>
   </url><url>
+    <loc>https://rengchizder.com/blog/hashmap/</loc>
+    <lastmod>2023-02-15T00:32:01+01:00</lastmod>
+  </url><url>
+    <loc>https://rengchizder.com/</loc>
+    <lastmod>2023-02-15T00:32:01+01:00</lastmod>
+  </url><url>
     <loc>https://rengchizder.com/personal/</loc>
+    <lastmod>2023-02-15T00:18:22+01:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://rengchizder.com/personal/1402/</loc>
+    <lastmod>2023-02-15T00:18:22+01:00</lastmod>
   </url><url>
     <loc>https://rengchizder.com/categories/</loc>
   </url><url>
     <loc>https://rengchizder.com/personal/first-personal-post/</loc>
-  </url><url>
-    <loc>https://rengchizder.com/</loc>
   </url><url>
     <loc>https://rengchizder.com/search/</loc>
   </url><url>

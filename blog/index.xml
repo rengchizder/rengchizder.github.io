@@ -10,6 +10,16 @@
       <link>https://rengchizder.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rengchizder.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2023 00:32:01 +0100</lastBuildDate><atom:link href="https://rengchizder.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hashmap</title>
+      <link>https://rengchizder.com/blog/hashmap/</link>
+      <pubDate>Wed, 15 Feb 2023 00:32:01 +0100</pubDate>
+      
+      <guid>https://rengchizder.com/blog/hashmap/</guid>
+      <description>from collections import Counter c1 = Counter(li1) c2 = Counter(li2) print(c1 &amp;amp; c2 == c1) Counter is a subcalss of Dict, therefore, from Python3.7&amp;gt;=, Counter is insertion-ordered. 2. c1 &amp;amp; c2 == c1 implies that c1 is a proper subset of c2. Dictionary is equivalent to hashmap in Java. </description>
+    </item>
+    
   </channel>
 </rss>

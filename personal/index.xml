@@ -10,7 +10,19 @@
       <link>https://rengchizder.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rengchizder.com/personal/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2023 00:18:22 +0100</lastBuildDate><atom:link href="https://rengchizder.com/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1402</title>
+      <link>https://rengchizder.com/personal/1402/</link>
+      <pubDate>Wed, 15 Feb 2023 00:18:22 +0100</pubDate>
+      
+      <guid>https://rengchizder.com/personal/1402/</guid>
+      <description>Start of a new semester which I am enrolled in only one last course to focus on research.
+Market Research The class was aight although listening to the professor repeating SOTA seems to fit the stereotype too well.
+Research To produce results fast, we (or just me) sometimes sacrifice maintanability and expandability. Spent two days adjusting code, while optimizing the experiments.</description>
+    </item>
+    
     <item>
       <title>Finally Online!</title>
       <link>https://rengchizder.com/personal/first-personal-post/</link>
