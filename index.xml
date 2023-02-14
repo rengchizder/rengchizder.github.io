@@ -18,11 +18,12 @@
       <pubDate>Wed, 15 Feb 2023 00:32:01 +0100</pubDate>
       
       <guid>https://rengchizder.com/blog/hashmap/</guid>
-      <description>from collections import Counter c1 = Counter(li1) c2 = Counter(li2) print(c1 &amp;amp; c2 == c1) Counter is a subcalss of Dict, therefore, from Python3.7&amp;gt;=, Counter is insertion-ordered. 2. c1 &amp;amp; c2 == c1 implies that c1 is a proper subset of c2. Dictionary is equivalent to hashmap in Java. </description>
+      <description>Short explanation of counter in python.
+from collections import Counter c1 = Counter(li1) c2 = Counter(li2) print(c1 &amp;amp; c2 == c1) Counter is a subcalss of Dict, therefore, from Python3.7&amp;gt;=, Counter is insertion-ordered. c1 &amp;amp; c2 == c1 implies that c1 is a proper subset of c2. Dictionary is equivalent to hashmap in Java. </description>
     </item>
     
     <item>
-      <title>1402</title>
+      <title>Beginning of New Semester</title>
       <link>https://rengchizder.com/personal/1402/</link>
       <pubDate>Wed, 15 Feb 2023 00:18:22 +0100</pubDate>
       
